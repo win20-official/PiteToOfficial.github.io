@@ -2,19 +2,23 @@
 body {
   background-color: black;
   color: white;
+  text-align: center;
 }
 
 h1 {
   background-color: black;
   color: white;
   font-family: 'Be Vietnam Pro', sans-serif;
+  text-align: center;
 }
 
 div {
   background-color: black;
   color: white;
+  text-align: center;
 }
 
 img{
 border-radius: 20px;
+text-align: center;
 } 
